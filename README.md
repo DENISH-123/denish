@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently studying in B.tech(IT) at **[Uka Tarsadia University](http://utu.ac.in/)**
+- 🔭 I am currently studying in MSc. Web and Data Science at **[University Koblenz](https://www.uni-koblenz-landau.de/de)**
 
-- 🌱 I’m currently learning **Web Development With React.**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **React Open-Source project**
+- 👯 I’m looking to collaborate on **Python project**
 
 - 👨‍💻 All of my projects are available at My GitHub Profile
 
