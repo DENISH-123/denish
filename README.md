@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="React.js"/>
+    <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000" alt="React.js"/>
 </a>
 <a href="https://www.eclipse.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
