@@ -19,15 +19,34 @@
 ## 🚀 Languages :
 <br>
 <p align="left">
-    <a href="https://www.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/> </a>
-    <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+   <a href="https://www.reactjs.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
+</a>
+<a href="https://www.reactjs.org/" target="_blank"> 
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="React.js"/>
+</a>
+<a href="https://www.eclipse.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+</a>
+<a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+</a>
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</a>
+
 </p>
 <br>
 
