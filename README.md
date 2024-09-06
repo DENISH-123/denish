@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play games and watch YouTube videos.**
 
-## 🚀 Languages :
+## 🚀 Languages & Tools :
 <br>
 <p align="left">
    <a href="https://www.reactjs.org/" target="_blank"> 
@@ -47,16 +47,11 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </a>
 
-</p>
-<br>
 
-## 🚀 Tools :
-<br>
-<p align="left"> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/> </a> 
-    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/> </a> 
+   <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
    <a href="https://kubernetes.io/" target="_blank"><img src="https://camo.githubusercontent.com/28a688e013239850109114b7790d453e84faf37567d698483e81ee59f6dd98c8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6b756265726e657465732f6b756265726e657465732d706c61696e2e737667" alt="Kubernetes" width="48" height="48"/></a>
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c63a38bafef05c24a2f9f031c9f4a614595b016732a848a862a7d16be4b2255e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/c63a38bafef05c24a2f9f031c9f4a614595b016732a848a862a7d16be4b2255e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667" height="40" alt="r logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="max-width: 100%;"></a>
 </p>
